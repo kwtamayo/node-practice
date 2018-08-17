@@ -1,0 +1,22 @@
+{
+  "name": "node-practice",
+  "version": "0.0.0",
+  "description": "Node SQL Test",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mssql": "^4.1.0",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/kwtamayo/node-practice"
+    }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": {
+    "name": "Kelvin Tamayo",
+    "email": "kelvin_tamayo@ultimatesoftware.com"
+  }
+}
